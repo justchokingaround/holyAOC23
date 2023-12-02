@@ -1,5 +1,7 @@
 # Setup for Advent of Code 2023 in HolyC
 
+[Video on how to configure this setup](https://youtu.be/FgAZtSnzo0k)
+
 ![rice](./rice.png)
 
 _Colorscheme I use: [./Home/Theme.HC](./Home/Theme.HC)_
